@@ -7,7 +7,7 @@ public class EncapExample {
         return age;
     }
 
-    public int getName() {
+    public String getName() {
         return name;
     }
 
