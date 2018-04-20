@@ -10,3 +10,5 @@
 To compile and run Packages:
 > javac -d (Directory Name) Filename.java
 > java Packagename.FileName
+
+NOTE: Upon compilation the class files will get saved in a new file which corresponds to the package name which is defined in the code.
